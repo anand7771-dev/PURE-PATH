@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>PurePath – Unlimited Navigation</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+
+<body>
+
+<h1>PurePath – Health-First Navigation</h1>
+<p>Unlimited routing using OpenRouteService</p>
+
+<div class="app-container">
+    <div class="left-panel">
+        <input id="source" placeholder="Enter source (anywhere)">
+        <input id="destination" placeholder="Enter destination (anywhere)">
+        <button onclick="findRoutes()">Find Route</button>
+        <div id="results"></div>
+    </div>
+
+    <div id="map"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

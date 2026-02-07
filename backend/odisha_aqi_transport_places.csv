@@ -1,0 +1,46 @@
+location,type,district,latitude,longitude,aqi
+Biju Patnaik International Airport,Airport,Khordha,20.2524,85.8178,94
+Jharsuguda Airport,Airport,Jharsuguda,21.9135,84.0504,138
+Rourkela Airport,Airport,Sundargarh,22.2566,84.8148,120
+Berhampur Airport,Airport,Ganjam,19.3149,84.7941,78
+
+Bhubaneswar Railway Station,Railway Station,Khordha,20.2644,85.8281,98
+Cuttack Junction,Railway Station,Cuttack,20.4625,85.8830,108
+Puri Railway Station,Railway Station,Puri,19.8135,85.8312,75
+Balasore Railway Station,Railway Station,Balasore,21.4942,86.9310,102
+Rourkela Junction,Railway Station,Sundargarh,22.2604,84.8536,121
+Jharsuguda Junction,Railway Station,Jharsuguda,21.8554,84.0062,145
+Sambalpur Junction,Railway Station,Sambalpur,21.4669,83.9812,90
+Rayagada Railway Station,Railway Station,Rayagada,19.1726,83.4163,76
+
+Bhubaneswar,City,Khordha,20.2961,85.8245,92
+Cuttack,City,Cuttack,20.4625,85.8830,105
+Puri,City,Puri,19.8135,85.8312,71
+Balasore,City,Balasore,21.4942,86.9310,98
+Angul,City,Angul,20.8400,85.1017,134
+Talcher,Industrial Area,Angul,20.9493,85.2342,150
+Jharsuguda,City,Jharsuguda,21.8554,84.0062,142
+Rourkela,City,Sundargarh,22.2604,84.8536,118
+Sambalpur,City,Sambalpur,21.4669,83.9812,87
+Berhampur,City,Ganjam,19.3149,84.7941,76
+Baripada,City,Mayurbhanj,21.9320,86.7490,82
+Keonjhar,City,Keonjhar,21.6280,85.5817,89
+Bhadrak,City,Bhadrak,21.0583,86.5156,110
+Jajpur Road,Industrial Area,Jajpur,20.8500,86.3333,140
+Dhenkanal,City,Dhenkanal,20.6614,85.5960,99
+Bargarh,City,Bargarh,21.3333,83.6167,91
+
+Koraput,Town,Koraput,18.8110,82.7105,65
+Rayagada,Town,Rayagada,19.1726,83.4163,74
+Nabarangpur,Town,Nabarangpur,19.2300,82.5480,68
+Malkangiri,Town,Malkangiri,18.3580,81.9000,62
+Phulbani,Town,Kandhamal,20.4781,84.2306,81
+Bhawanipatna,Town,Kalahandi,19.9075,83.1650,79
+Nuapada,Town,Nuapada,20.8167,82.5333,78
+
+Pipili,Village,Puri,20.1136,85.8325,72
+Chandaka,Village,Khordha,20.3536,85.7226,85
+Banarpal,Village,Angul,20.8160,85.0500,128
+Rengali,Village,Sambalpur,21.3600,84.0500,96
+Kantabanji,Town,Balangir,20.4667,82.9333,83
+Subarnapur,Town,Subarnapur,20.8500,83.9167,77
